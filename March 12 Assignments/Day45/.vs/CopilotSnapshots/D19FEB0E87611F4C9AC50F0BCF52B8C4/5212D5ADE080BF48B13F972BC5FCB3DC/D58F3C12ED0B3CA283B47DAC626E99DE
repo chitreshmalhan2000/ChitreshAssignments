@@ -1,0 +1,24 @@
+﻿@Model MVCDemo.Models.employee;
+@{
+    ViewData["Title"] = "searchemp";
+}
+
+<h1>searchemp</h1>
+
+<table border="1" cellpadding="2" cellspacing="3">
+    <tr>
+        <th>EmployeeID</th>
+        <th>EmpName</th>
+        <th>Salary</th>
+        <th>Image</th>
+    </tr>
+    <tr>
+        <td>@Model.empId</td>
+        <td>@Model.empName</td>
+        <td>@Model.salary</td
+
+        <td>
+            <img src="@Model.imageurl" alt="@Model.empName" width="100" height="100" />
+        </td>
+    </tr>
+</table>

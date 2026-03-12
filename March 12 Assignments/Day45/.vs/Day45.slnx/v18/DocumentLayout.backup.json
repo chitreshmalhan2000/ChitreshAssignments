@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\viewemployeesbydepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\viewemployeesbydepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\searchemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\searchemp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\mxedobjectcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\mxedobjectcollection.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\models\\empviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\empviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\dept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\collectionofobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\singleobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\singleobjectpassing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\sampledemo3.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\viewdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\viewdepartments.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|c:\\drive\\me\\4th sem\\capgemini\\day45\\mvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF83386E-1D17-5858-5D0F-1C0DE6BCECAC}|MVCDemo\\MVCDemo.csproj|solutionrelative:mvcdemo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:14:32.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewEmployeesByDepartment.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\ViewEmployeesByDepartment.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\ViewEmployeesByDepartment.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\ViewEmployeesByDepartment.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\ViewEmployeesByDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:10:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ViewDepartments.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\ViewDepartments.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\ViewDepartments.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\ViewDepartments.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\ViewDepartments.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T06:04:34.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "mxedobjectcollection.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\mxedobjectcollection.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\mxedobjectcollection.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\mxedobjectcollection.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\mxedobjectcollection.cshtml",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T05:10:40.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpViewModel.cs",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\EmpViewModel.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Models\\EmpViewModel.cs",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\EmpViewModel.cs",
+              "RelativeToolTip": "MVCDemo\\Models\\EmpViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T05:07:44.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dept.cs",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\Dept.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Models\\Dept.cs",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\Dept.cs",
+              "RelativeToolTip": "MVCDemo\\Models\\Dept.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T04:49:12.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "searchemp.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\searchemp.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\searchemp.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\searchemp.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\searchemp.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAEAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T04:42:54.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-12T04:24:33.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "display.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\display.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\display.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\display.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:28:51.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "collectionofobjectpassing.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\collectionofobjectpassing.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:09:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "singleobjectpassing.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\singleobjectpassing.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\singleobjectpassing.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\singleobjectpassing.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\singleobjectpassing.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:26:37.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\employee.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Models\\employee.cs",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Models\\employee.cs",
+              "RelativeToolTip": "MVCDemo\\Models\\employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAEBUwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:19:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T05:13:42.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sampleDemo3.cshtml",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\sampleDemo3.cshtml",
+              "RelativeDocumentMoniker": "MVCDemo\\Views\\Home\\sampleDemo3.cshtml",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Views\\Home\\sampleDemo3.cshtml",
+              "RelativeToolTip": "MVCDemo\\Views\\Home\\sampleDemo3.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T04:55:29.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVCDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Drive\\ME\\4th sem\\Capgemini\\Day45\\MVCDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVCDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:34:42.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
