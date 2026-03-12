@@ -1,0 +1,19 @@
+﻿@model MVCDemo.Models.employee;
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<h1>@Model.empId</h1>
+<h1>@Model.empName</h1>
+<div>
+    <img src="@Model.imageurl" alt="@Model.empName" width="300" height="300" />
+</div>
+<div>
+    <h2>Employee details</h2>
+    <p>--------------)))))))))))))++++++++++**********XXXXXXXXXXXXXX</p>
+    <h2>Salary</h2>
+    <p>@Model.salary</p>
+    <h2><a asp-action="collectionofobjectpassing">back to list</a></h2>
+</div>

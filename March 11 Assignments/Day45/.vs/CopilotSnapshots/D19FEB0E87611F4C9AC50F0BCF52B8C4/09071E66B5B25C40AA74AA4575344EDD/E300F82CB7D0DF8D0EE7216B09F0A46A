@@ -1,0 +1,7 @@
+﻿@model MVCDemo.Models.EmpViewModel
+@{
+    ViewData["Title"] = "mxedobjectcollection";
+}
+
+<h1>mxedobjectcollection</h1>
+
