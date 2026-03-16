@@ -1,0 +1,18 @@
+﻿using DbFirstEfinAsp.netcoreDemo.Models;
+using Microsoft.AspNetCore.Mvc;
+
+namespace DbFirstEfinAsp.netcoreDemo.Controllers
+{
+    public class NorthWindController : Controller
+    {
+      
+        public IActionResult SpainCustomers()
+        {
+            NorthWindContext cnt = new NorthWindContext();
+            var spainCustomers = cnt.Customers.Where(c => c.Country == "Spain").ToList();
+
+            return View(spainCustomers);
+        }
+    }
+}
+

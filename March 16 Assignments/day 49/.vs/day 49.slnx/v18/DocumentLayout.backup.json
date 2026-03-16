@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|c:\\users\\hp\\onedrive\\documents\\day 49\\dbfirstefinasp.netcoredemo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\controllers\\northwindcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|c:\\users\\hp\\onedrive\\documents\\day 49\\dbfirstefinasp.netcoredemo\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\models\\spaincustomerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|c:\\users\\hp\\onedrive\\documents\\day 49\\dbfirstefinasp.netcoredemo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\models\\northwindcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|c:\\users\\hp\\onedrive\\documents\\day 49\\dbfirstefinasp.netcoredemo\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\models\\northwndcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|c:\\users\\hp\\onedrive\\documents\\day 49\\dbfirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79880B75-C857-E1CE-9544-FC3DD33FED96}|DbFirstEfinAsp.netcoreDemo\\DbFirstEfinAsp.netcoreDemo.csproj|solutionrelative:dbfirstefinasp.netcoredemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "searchCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\searchCustomer.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:23:49.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SpainCustomers.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Views\\NorthWind\\SpainCustomers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:01:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpainCustomerViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\SpainCustomerViewModel.cs",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Models\\SpainCustomerViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\SpainCustomerViewModel.cs",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Models\\SpainCustomerViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:50:03.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NorthWindController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Controllers\\NorthWindController.cs",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Controllers\\NorthWindController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Controllers\\NorthWindController.cs",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Controllers\\NorthWindController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:06:42.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NorthWindContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\NorthWindContext.cs",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Models\\NorthWindContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\NorthWindContext.cs",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Models\\NorthWindContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:45:55.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Program.cs",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Program.cs",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T05:36:48.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NorthwndContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\NorthwndContext.cs",
+              "RelativeDocumentMoniker": "DbFirstEfinAsp.netcoreDemo\\Models\\NorthwndContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 49\\DbFirstEfinAsp.netcoreDemo\\Models\\NorthwndContext.cs",
+              "RelativeToolTip": "DbFirstEfinAsp.netcoreDemo\\Models\\NorthwndContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T04:39:10.159Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
