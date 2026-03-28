@@ -1,0 +1,6 @@
+@WebAppSat_HostAddress = http://localhost:5110
+
+GET {{WebAppSat_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

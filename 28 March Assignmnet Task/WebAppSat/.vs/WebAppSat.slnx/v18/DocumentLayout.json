@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\migrations\\20260328052503_productclassadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\migrations\\20260328052503_productclassadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\models\\procontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\models\\procontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|c:\\users\\hp\\onedrive\\documents\\webappsat\\webappsat\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDCC474F-755E-7E5B-FFA7-E89AEB58602D}|WebAppSat\\WebAppSat.csproj|solutionrelative:webappsat\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260328052503_ProductClassAdded.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Migrations\\20260328052503_ProductClassAdded.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\Migrations\\20260328052503_ProductClassAdded.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Migrations\\20260328052503_ProductClassAdded.cs",
+              "RelativeToolTip": "WebAppSat\\Migrations\\20260328052503_ProductClassAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:25:03.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Models\\ProContext.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\Models\\ProContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Models\\ProContext.cs",
+              "RelativeToolTip": "WebAppSat\\Models\\ProContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:01:20.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAppSat\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\appsettings.json",
+              "RelativeToolTip": "WebAppSat\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-28T04:57:28.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Models\\Product.cs",
+              "RelativeToolTip": "WebAppSat\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:40:15.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Program.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Program.cs",
+              "RelativeToolTip": "WebAppSat\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:09:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\ProductService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\ProductService.cs",
+              "RelativeToolTip": "WebAppSat\\ProductService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:46:56.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\IProduct.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\IProduct.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\IProduct.cs",
+              "RelativeToolTip": "WebAppSat\\IProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T04:46:25.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebAppSat\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\WebAppSat\\WebAppSat\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebAppSat\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAUwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T05:32:53.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
