@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\models\\empcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\views\\home\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\controllers\\empcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\models\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\migrations\\20260324055038_emptableaddedwithdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\migrations\\20260324055038_emptableaddedwithdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|c:\\users\\hp\\onedrive\\documents\\day 58\\webapimvc\\webapimvc\\migrations\\20260325061703_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53106696-A8C0-7194-061E-8650F8B437BF}|WebAPIMVC\\WebAPIMVC.csproj|solutionrelative:webapimvc\\migrations\\20260325061703_imageadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260330094417_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs",
+              "RelativeToolTip": "WebAPIMVC\\Migrations\\20260330094417_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:44:17.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Models\\RegisterUser.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\RegisterUser.cs",
+              "RelativeToolTip": "WebAPIMVC\\Models\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:22:44.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Program.cs",
+              "RelativeToolTip": "WebAPIMVC\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:47:39.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPIMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\appsettings.json",
+              "RelativeToolTip": "WebAPIMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T05:43:53.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\EmpContext.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Models\\EmpContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\EmpContext.cs",
+              "RelativeToolTip": "WebAPIMVC\\Models\\EmpContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:35:50.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\IEmployee.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\IEmployee.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\IEmployee.cs",
+              "RelativeToolTip": "WebAPIMVC\\IEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:18:53.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "WebAPIMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:34:59.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Views\\Home\\Index2.cshtml",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Views\\Home\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Views\\Home\\Index2.cshtml",
+              "RelativeToolTip": "WebAPIMVC\\Views\\Home\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:05:33.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebAPIMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T06:02:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebAPIMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T06:03:58.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Controllers\\EmpController.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Controllers\\EmpController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Controllers\\EmpController.cs",
+              "RelativeToolTip": "WebAPIMVC\\Controllers\\EmpController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowCIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T06:00:57.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\EmployeeService.cs",
+              "RelativeToolTip": "WebAPIMVC\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T04:22:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Models\\EmployeeUpdateDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Models\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "WebAPIMVC\\Models\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T05:48:03.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260325061703_imageadded.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260325061703_imageadded.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Migrations\\20260325061703_imageadded.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260325061703_imageadded.cs",
+              "RelativeToolTip": "WebAPIMVC\\Migrations\\20260325061703_imageadded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:17:03.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20260324055038_emptableaddedwithdb.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260324055038_emptableaddedwithdb.cs",
+              "RelativeDocumentMoniker": "WebAPIMVC\\Migrations\\20260324055038_emptableaddedwithdb.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 58\\WebAPIMVC\\WebAPIMVC\\Migrations\\20260324055038_emptableaddedwithdb.cs",
+              "RelativeToolTip": "WebAPIMVC\\Migrations\\20260324055038_emptableaddedwithdb.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T05:50:38.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
