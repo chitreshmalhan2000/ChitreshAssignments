@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Blob\\Manage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\controllers\\blobcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Blob\\AddFile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\services\\iblobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\models\\blobmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Container\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|c:\\users\\hp\\onedrive\\documents\\day 60\\azureblobproject\\azureblobproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D207C701-B203-4417-B261-D2F36F1C8C19}|AzureBlobProject\\AzureBlobProject.csproj|solutionrelative:azureblobproject\\controllers\\containercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AzureBlobProject\\Views\\Container\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Blob\\Manage.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\Manage.cshtml*",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Blob\\Manage.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:53:27.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddFile.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Blob\\AddFile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:51:36.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Controllers\\BlobController.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Controllers\\BlobController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Controllers\\BlobController.cs",
+              "RelativeToolTip": "AzureBlobProject\\Controllers\\BlobController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:50:33.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Program.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Program.cs",
+              "RelativeToolTip": "AzureBlobProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:49:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Services\\BlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\BlobService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Services\\BlobService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\BlobService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAqwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:48:52.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBlobService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Services\\IBlobService.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Services\\IBlobService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Services\\IBlobService.cs",
+              "RelativeToolTip": "AzureBlobProject\\Services\\IBlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:48:17.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Models\\BlobModel.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Models\\BlobModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Models\\BlobModel.cs",
+              "RelativeToolTip": "AzureBlobProject\\Models\\BlobModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:47:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Container\\Create.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:46:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "RelativeToolTip": "AzureBlobProject\\Views\\Container\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-01T09:45:25.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContainerController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Controllers\\ContainerController.cs",
+              "RelativeDocumentMoniker": "AzureBlobProject\\Controllers\\ContainerController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\day 60\\AzureBlobProject\\AzureBlobProject\\Controllers\\ContainerController.cs",
+              "RelativeToolTip": "AzureBlobProject\\Controllers\\ContainerController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T09:44:03.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
